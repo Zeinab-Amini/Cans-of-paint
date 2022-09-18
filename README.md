@@ -1,3 +1,8 @@
+In this project I imported the library "math". 
+It will ask the height and width of the wall. 
+Then it does some math and will figure out how many cans of paint you need to cover your wall. 
+
+
 ## Area Calc
 
 # UPDATE
